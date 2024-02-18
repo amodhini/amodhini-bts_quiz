@@ -1,0 +1,108 @@
+.bts_quiz{
+    padding: 100px;
+    background-color: #E4F5F9;
+    font-size: 50px;
+    display: block;
+    font-family: forte;
+    border-style: double;
+}
+.first {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.second{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.third
+    {
+        background-color: aqua;
+        font-family: Arial, Helvetica, sans-serif;
+        height: 50px;
+        weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+    }
+
+.four{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.five{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.six{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.seven {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.eight {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height:50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.nine {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.ten {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    weight: 50px;
+    padding: 50px;
+    margin: 10px;
+    border: 5px solid black;
+}
+body{
+    background-color: blueviolet;
+    direction:ltr;
+    padding: 5px;
+    position: absolute;
+    text-align: center;
+
+}  
